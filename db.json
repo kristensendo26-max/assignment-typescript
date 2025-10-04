@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 16",
+      "price": 1000000,
+      "description": "Iphone16 is officially announced with new design...",
+      "image": "/assets/iphone-card-40-17pro-202509_FMT_WHH.jfif"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro",
+      "price": 1000000,
+      "description": "MacBook Pro 2021 with miniLED display and M1 chip...",
+      "image": "/assets/iphone-card-40-17pro-202509_FMT_WHH.jfif"
+    },
+    {
+      "id": 3,
+      "name": "Sp3",
+      "price": 1000000,
+      "description": "Iphone16 is officially announced with new design...",
+      "image": "/assets/iphone-card-40-17pro-202509_FMT_WHH.jfif"
+    },
+    {
+      "id": 4,
+      "name": "Sp4",
+      "price": 1000000,
+      "description": "Iphone16 is officially announced with new design...",
+      "image": "/assets/iphone-card-40-17pro-202509_FMT_WHH.jfif"
+    },
+    {
+      "id": 5,
+      "name": "Sp5",
+      "price": 1000000,
+      "description": "Iphone16 is officially announced with new design...",
+      "image": "/assets/iphone-card-40-17pro-202509_FMT_WHH.jfif"
+    },
+    {
+      "id": 6,
+      "name": "Sp6",
+      "price": 1000000,
+      "description": "Iphone16 is officially announced with new design...",
+      "image": "/assets/iphone-card-40-17pro-202509_FMT_WHH.jfif"
+    },
+    {
+      "id": 7,
+      "name": "Sp7",
+      "price": 1000000,
+      "description": "Iphone16 is officially announced with new design...",
+      "image": "/assets/iphone-card-40-17pro-202509_FMT_WHH.jfif"
+    },
+    {
+      "id": 8,
+      "name": "Sp8",
+      "price": 1000000,
+      "description": "Iphone16 is officially announced with new design...",
+      "image": "/assets/iphone-card-40-17pro-202509_FMT_WHH.jfif"
+    },
+    {
+      "id": 9,
+      "name": "Sp9",
+      "price": 1000000,
+      "description": "Iphone16 is officially announced with new design...",
+      "image": "/assets/iphone-card-40-17pro-202509_FMT_WHH.jfif"
+    },
+    {
+      "id": 10,
+      "name": "Sp10",
+      "price": 1000000,
+      "description": "Iphone16 is officially announced with new design...",
+      "image": "/assets/iphone-card-40-17pro-202509_FMT_WHH.jfif"
+    }
+  ]
+}
