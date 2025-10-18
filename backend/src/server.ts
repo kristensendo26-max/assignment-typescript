@@ -5,7 +5,8 @@ import cors from "cors";
 import morgan from "morgan";
 import { connectDB } from "./config/db";
 import { Product } from "./models/product";
-import productRouter from "./routes/product";
+import router from "./routes/product";
+import authRouter from "./routes/auth";
 
 
 dotenv.config();
@@ -19,7 +20,8 @@ app.use(cors({
 app.use(express.json());
 app.use(morgan("dev"));
 
-app.use("/products", productRouter);
+app.use("/products", router);
+app.use("/auth", authRouter);
 
 // Kết nối DB
 connectDB();

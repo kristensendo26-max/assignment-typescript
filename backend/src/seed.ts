@@ -15,8 +15,7 @@ async function seed() {
 
     // Xóa dữ liệu cũ
     await Product.deleteMany({});
-
-    // Thêm 10 sản phẩm mẫu
+    
     const products = [
       { name: "iPhone 15", price: 25000000, description: "Apple smartphone mới nhất", image: "assets/iphone-card-40-17pro-202509_FMT_WHH.jfif"},
       { name: "Samsung Galaxy S23", price: 20000000, description: "Flagship Android cao cấp",  image: "assets/iphone-card-40-17pro-202509_FMT_WHH.jfif" },
